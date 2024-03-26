@@ -1,4 +1,4 @@
-# A journey to discover AI and AI assistants
+# A journey to discover AI and AI assistants for developers
 
 ## Intros
 - **["How AI Works 🤖🔎"](https://www.zaxis.page/p/how-ai-works)**
