@@ -1,6 +1,8 @@
 # A journey to discover AI and AI assistants for developers
 
 ## Intros
+- **["Generative AI in a Nutshell - how to survive and thrive in the age of AI"](https://www.youtube.com/watch?v=2IK3DFHRFfw)**
+	- basically a full day AI course crammed into 18 mins of drawing & talking. Target audience: Everyone.
 - **["How AI Works 🤖🔎"](https://www.zaxis.page/p/how-ai-works)**
 	- nice article to understand how LLMs work in a non-technical way, using a simple analogy of meal planning to explain complex AI concepts.
 - **[Intro to Large Language Models - YouTube - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)**
