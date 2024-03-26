@@ -3,19 +3,18 @@
 ## Intros
 - **["How AI Works 🤖🔎"](https://www.zaxis.page/p/how-ai-works)**
 	- nice article to understand how LLMs work in a non-technical way, using a simple analogy of meal planning to explain complex AI concepts.
-- **Intro to Large Language Models - YouTube - Andrej Karpathy** - https://www.youtube.com/watch?v=zjkBMFhNj_g
+- **[Intro to Large Language Models - YouTube - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)**
 	- the must-view video to have a good and solid intro on LLMs
-- **"ChatGPT Prompt Engineering for Developers"** - https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+- **["ChatGPT Prompt Engineering for Developers"](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)** 
 	- a very well-made free hands-on course teaches prompt engineering best practices for application development, different ways to use LLMs, and how to iterate on prompts.
-- **"An example of LLM prompting for programming"** - https://martinfowler.com/articles/2023-chatgpt-xu-hao.html
+- **["An example of LLM prompting for programming"](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)**
 	- Xu Hao uses chain of thought and general knowledge prompting with ChatGPT when writing self-testing code
 
 ## Inspirational content
-- **"DDD and LLMs"**, Eric Evans's keynote at "Explore DDD 2024": https://www.youtube.com/watch?v=Tll_suxZluk
+- **["DDD and LLMs"](https://www.youtube.com/watch?v=Tll_suxZluk)**, Eric Evans's keynote at "Explore DDD 2024"
 	- very very nice, Eric shares his learnings and discoveries on AIs, how they relates to DDD and challenge all the DDD community to come out with new ideas to share.
-- **"Can AI play the TDD pairing game?"** - https://www.mechanical-orchard.com/post/can-ai-play-the-tdd-pairing-game
+- **["Can AI play the TDD pairing game?"](https://www.mechanical-orchard.com/post/can-ai-play-the-tdd-pairing-game)**
 	- watch two AI agents pairing together in a TDD session
- - https://www.ufried.com/blog/chatgpt_already_knows/
 - **"Exploring Generative AI"** - https://martinfowler.com/articles/exploring-gen-ai.html
 	- good article to understand the impact of Generative AI, particularly LLMs, on software development practices and coding assistance tools.
 - **"AI and the Search for Truth and Answers: interview with Aravind Srinivas, Perplexity.ai"** - https://www.youtube.com/watch?v=TTjEr7TFcmQ
