@@ -1,7 +1,7 @@
 # A journey to discover AI and AI assistants
 
 ## Intros
-- **"How AI Works 🤖🔎"**, https://www.zaxis.page/p/how-ai-works
+- **["How AI Works 🤖🔎"](https://www.zaxis.page/p/how-ai-works)**
 	- nice article to understand how LLMs work in a non-technical way, using a simple analogy of meal planning to explain complex AI concepts.
 - **Intro to Large Language Models - YouTube - Andrej Karpathy** - https://www.youtube.com/watch?v=zjkBMFhNj_g
 	- the must-view video to have a good and solid intro on LLMs
