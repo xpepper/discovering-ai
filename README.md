@@ -43,3 +43,5 @@
 - **["90% of My Skills Are Now Worth $0"](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0)**, Kent Beck
 - **["Why the fuss about conversational programming?"](https://swardley.medium.com/why-the-fuss-about-conversational-programming-60c8d1908237)**, by Simon Wardley
 	- Simon discusses the emergence of conversational programming, its impact on software development, and the shift towards more automated coding processes, highlighting the future of programming with AI assistance.
+- **["Semantic Programming and Software 2.0"](https://meditations.metavert.io/p/semantic-programming-and-software)**, by Jon Radoff
+	- if you want to dig into how AI impacts videogame development, [Jon's substack](https://meditations.metavert.io/) is a great substack
