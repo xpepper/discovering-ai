@@ -37,11 +37,11 @@
 		- if you want to dig deeper in the future of work, AI, and how we can navigate the changing job landscape to ensure prosperity for all.
 - **["ChatGPT Already Knows"](https://www.ufried.com/blog/chatgpt_already_knows/)**, by Uwe Friedrichsen
 	- a series of articles on how AIs will eventually disrupt the role of sw engineer.
+- **["Semantic Programming and Software 2.0"](https://meditations.metavert.io/p/semantic-programming-and-software)**, by Jon Radoff
+	- if you want to dig into how AI impacts videogame development, [Jon's substack](https://meditations.metavert.io/) is a great substack
 - **["AI and the automation of work — Benedict Evans"](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)**
 	- the article discusses the impact of AI and automation on jobs, emphasizing historical patterns, future job creation, and the potential implications of generative AI technologies like ChatGPT.
 - **["How AI Could Save (Not Destroy) Education, Sal Khan at TED"](https://www.youtube.com/watch?v=hJP5GqnTrNo)**
 - **["90% of My Skills Are Now Worth $0"](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0)**, Kent Beck
 - **["Why the fuss about conversational programming?"](https://swardley.medium.com/why-the-fuss-about-conversational-programming-60c8d1908237)**, by Simon Wardley
 	- Simon discusses the emergence of conversational programming, its impact on software development, and the shift towards more automated coding processes, highlighting the future of programming with AI assistance.
-- **["Semantic Programming and Software 2.0"](https://meditations.metavert.io/p/semantic-programming-and-software)**, by Jon Radoff
-	- if you want to dig into how AI impacts videogame development, [Jon's substack](https://meditations.metavert.io/) is a great substack
