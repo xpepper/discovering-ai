@@ -15,29 +15,29 @@
 	- very very nice, Eric shares his learnings and discoveries on AIs, how they relates to DDD and challenge all the DDD community to come out with new ideas to share.
 - **["Can AI play the TDD pairing game?"](https://www.mechanical-orchard.com/post/can-ai-play-the-tdd-pairing-game)**
 	- watch two AI agents pairing together in a TDD session
-- **"Exploring Generative AI"** - https://martinfowler.com/articles/exploring-gen-ai.html
+- **["Exploring Generative AI"](https://martinfowler.com/articles/exploring-gen-ai.html)**
 	- good article to understand the impact of Generative AI, particularly LLMs, on software development practices and coding assistance tools.
-- **"AI and the Search for Truth and Answers: interview with Aravind Srinivas, Perplexity.ai"** - https://www.youtube.com/watch?v=TTjEr7TFcmQ
+- **["AI and the Search for Truth and Answers: interview with Aravind Srinivas, Perplexity.ai"](https://www.youtube.com/watch?v=TTjEr7TFcmQ)**
 	- nice interview with the founder of Perplexity.ai
 
 ## Tools
-- **LMSYS Chatbot Arena Leaderboard** - https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
+- **[LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)**
 	- a chatbot Leaderboard, ranking all main LLMs based on a ELO-like scoring system
-- ⚔️ **Chatbot Arena: Benchmarking LLMs in the Wild** - https://chat.lmsys.org/
+- **[Chatbot Arena: Benchmarking LLMs in the Wild](https://chat.lmsys.org/)**
 	- a nice way of contributing to ranking LLMs while using them for free :D
-- **Let's Build AI**: https://letsbuild.ai
+- **[Let's Build AI](https://letsbuild.ai)**
 	- a community-driven platform for AI enthusiasts
 
 ## AI and our future
-- **"Impromptu, Amplifying Our Humanity Through AI"**, a free book by Reid Hoffman with GPT-4, that offers readers a travelog of the future - https://www.impromptubook.com/
+- **["Impromptu, Amplifying Our Humanity Through AI"](https://www.impromptubook.com/)**, a free book by Reid Hoffman with GPT-4, that offers readers a travelog of the future
 	- very nice travel through all the areas where AIs will have an impact in the future!
-- **"Plentiful, high-paying jobs in the age of AI"** - https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the
+- **["Plentiful, high-paying jobs in the age of AI"](https://www.noahpinion.blog/p/plentiful-high-paying-jobs-in-the)**
 		- if you want to dig deeper in the future of work, AI, and how we can navigate the changing job landscape to ensure prosperity for all.
-- **"ChatGPT Already Knows"**, by Uwe Friedrichsen - https://www.ufried.com/blog/chatgpt_already_knows/
+- **["ChatGPT Already Knows"](https://www.ufried.com/blog/chatgpt_already_knows/)**, by Uwe Friedrichsen
 	- a series of articles on how AIs will eventually disrupt the role of sw engineer.
-- **"AI and the automation of work — Benedict Evans"** - https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai
+- **["AI and the automation of work — Benedict Evans"](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)**
 	- the article discusses the impact of AI and automation on jobs, emphasizing historical patterns, future job creation, and the potential implications of generative AI technologies like ChatGPT.
-- **"How AI Could Save (Not Destroy) Education, Sal Khan at TED"** - https://www.youtube.com/watch?v=hJP5GqnTrNo
-- **"90% of My Skills Are Now Worth $0"**, Kent Beck - https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0
-- **"Why the fuss about conversational programming?"**, by Simon Wardley - https://swardley.medium.com/why-the-fuss-about-conversational-programming-60c8d1908237
+- **["How AI Could Save (Not Destroy) Education, Sal Khan at TED"](https://www.youtube.com/watch?v=hJP5GqnTrNo)**
+- **["90% of My Skills Are Now Worth $0"](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0)**, Kent Beck
+- **["Why the fuss about conversational programming?"](https://swardley.medium.com/why-the-fuss-about-conversational-programming-60c8d1908237)**, by Simon Wardley
 	- Simon discusses the emergence of conversational programming, its impact on software development, and the shift towards more automated coding processes, highlighting the future of programming with AI assistance.
