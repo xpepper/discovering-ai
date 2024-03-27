@@ -60,8 +60,10 @@
   - This article discusses the impact of AI and automation on jobs, emphasizing historical patterns, future job creation, and the potential implications of generative AI technologies like ChatGPT.
 
 - **["How AI Could Save (Not Destroy) Education, Sal Khan at TED"](https://www.youtube.com/watch?v=hJP5GqnTrNo)**
+	- Sal Khan, the founder of Khan Academy, challenges the notion that AI will undermine education.
 
 - **["90% of My Skills Are Now Worth $0"](https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0)**, Kent Beck
+	- Kent Beck reflects on the impact of AI on the value of software development skills.
 
 - **["Why the Fuss About Conversational Programming?"](https://swardley.medium.com/why-the-fuss-about-conversational-programming-60c8d1908237)**, by Simon Wardley
   - Simon discusses the emergence of conversational programming, its impact on software development, and the shift towards more automated coding processes, highlighting the future of programming with AI assistance.
