@@ -17,6 +17,10 @@
 - **["An Example of LLM Prompting for Programming"](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)**
   - Xu Hao uses chain of thought and general knowledge prompting with ChatGPT when writing self-testing code.
 
+- **["But what is a GPT? Visual intro to transformers"](https://www.youtube.com/watch?v=wjZofJX0v4M)**
+  - Unpacking how large language models operate under the hood with this visually-driven journey to discover how Generative Pretrained Transformers (GPTs) function.
+
+
 ## Inspirational Content
 
 - **["DDD and LLMs"](https://www.youtube.com/watch?v=Tll_suxZluk)**, Eric Evans's keynote at "Explore DDD 2024"
@@ -29,7 +33,7 @@
   - A good article that explains the impact of Generative AI, particularly LLMs, on software development practices and coding assistance tools.
 
 - **["AI and the Search for Truth and Answers: Interview with Aravind Srinivas, Perplexity.ai"](https://www.youtube.com/watch?v=TTjEr7TFcmQ)**
-  - An insightful interview with the founder of Perplexity.ai.
+  - Unpacking how large language models operate under the hood with this visually-driven journey to discover how Generative Pretrained Transformers (GPTs) function.
 
 ## Tools
 
