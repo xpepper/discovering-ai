@@ -60,7 +60,7 @@
 - **["Semantic Programming and Software 2.0"](https://meditations.metavert.io/p/semantic-programming-and-software)**, by Jon Radoff
   - For those interested in how AI impacts video game development, [Jon's substack](https://meditations.metavert.io/) is a great resource.
 
-- **["AI and the Automation of Work — Benedict Evans"](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)**
+- **["AI and the Automation of Work"](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)**, by Benedict Evans
   - This article discusses the impact of AI and automation on jobs, emphasizing historical patterns, future job creation, and the potential implications of generative AI technologies like ChatGPT.
 
 - **["How AI Could Save (Not Destroy) Education, Sal Khan at TED"](https://www.youtube.com/watch?v=hJP5GqnTrNo)**
