@@ -24,7 +24,7 @@
 ## Inspirational Content
 
 - **["Exploring Generative AI"](https://martinfowler.com/articles/exploring-gen-ai.html)**
-  - A set of very good memos that where houghtworkers share their experience in adopting AI-assisted coding assistance tools like Copilot and ChatGPT; it's full of a lot of insights on the impact of Generative AI on software development practices.
+  - A set of very good memos where Thoughtworkers share their experience in adopting AI-assisted coding tools like Copilot and ChatGPT; it’s full of insights on the impact of Generative AI on software development practices.
 
 - **["DDD and LLMs"](https://www.youtube.com/watch?v=Tll_suxZluk)**, Eric Evans's keynote at "Explore DDD 2024"
   - Eric shares his learnings and discoveries on AIs, how they relate to DDD, and challenges the DDD community to come up with new ideas to share.
